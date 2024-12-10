@@ -1,5 +1,5 @@
 # 💫 About Me:
-- Estudante de Análise de BI<br>- Procurando oportunidade na área<br>- Formada em Tecnologia de Marketing<br>- Excel, VBA, Power BI, Power Apps, SQL
+- Estudante de Análise de BI<br>- Procurando oportunidade na área<br>- Formada em Tecnologia de Marketing<br>- Excel, VBA, Power BI, Power Apps, SQL<br>- Mais de 4 anos de experiência em Inteligência de Mercado
 
 
 ## 🌐 Socials:
